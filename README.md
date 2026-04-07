@@ -32,7 +32,7 @@ Monthly summary of new MRR, churned MRR, and net revenue from 2022 through the p
 
 - **SQL** — core analysis, segmentation, and metric calculations
 - **Excel** — summary tables and exploratory checks
-- **Power BI** — dashboard and visual reporting for stakeholders
+- **Looker Studio** — dashboard and visual reporting for stakeholders
 
 ---
 
